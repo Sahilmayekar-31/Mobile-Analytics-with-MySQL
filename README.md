@@ -1,4 +1,4 @@
-# 📱 Smartphone Market Analysis with MySQL
+# Smartphone Market Analysis with MySQL
 
 This project explores a comprehensive dataset of smartphones using MySQL to uncover pricing trends, feature distributions, and brand performance. It demonstrates SQL proficiency across basic, intermediate, and advanced levels—ideal for business analytics and portfolio presentation.
 
